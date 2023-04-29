@@ -1,6 +1,8 @@
 # Happy-Cake
 Protótipo de site para confeitarias
 
+As tecnologias utilizadas foram: HTML, CSS e JavaScript. Para executar o projeto, é necessário instalar o VsCode, ou abrir o arquivo HTML utilizando o navegador.
+
 <h2 align="center">Página Inicial</h2> 
 
 ![Página Inicial](./assets/printsPortf%C3%B3lio/pagInicial.PNG)
